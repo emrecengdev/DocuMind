@@ -141,20 +141,6 @@ Sistem, `document_templates` klasöründe JSON formatında belge şablonları sa
    - Özel prompt şablonları
    - Veri çıkarım alanları
 
-## Hata Ayıklama
-
-- Debug modu için `.env` dosyasında `DEBUG=True` ayarlayın
-- OCR sonuçlarını görselleştirmek için interaktif görüntüleyiciyi kullanın
-- Hata mesajları ve log kayıtları için konsolu takip edin
-
-## Katkıda Bulunma
-
-1. Bu depoyu fork edin
-2. Yeni bir özellik dalı oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Dalınıza push yapın (`git push origin yeni-ozellik`)
-5. Bir Pull Request oluşturun
-
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın. 
