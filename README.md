@@ -56,7 +56,7 @@ requests>=2.31.0  # Ollama API için
 
 1. **Projeyi Klonlama**
    ```bash
-   git clone https://github.com/kullanici/docmind.git
+   git clone https://github.com/emrecengdev/DocuMind.git
    cd docmind
    ```
 
