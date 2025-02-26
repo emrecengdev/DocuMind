@@ -1,0 +1,25 @@
+# Temel paketler
+streamlit>=1.22.0
+matplotlib>=3.5.0
+opencv-python>=4.5.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=10.0.0
+mplcursors>=0.5.0
+
+# OCR için gerekli paketler
+python-doctr>=0.6.0
+pdf2image>=1.16.3
+
+# LLM entegrasyonu için gerekli paketler
+langchain>=0.1.0
+langchain-community>=0.0.13
+google-generativeai>=0.3.0
+
+# Ollama için gerekli paketler
+requests>=2.31.0
+
+# Eğer CPU-only destek gerekiyorsa, alternatif yükleme komutu kullanabilirsiniz:
+# pip install python-doctr --extra-index-url https://download.pytorch.org/whl/cpu 

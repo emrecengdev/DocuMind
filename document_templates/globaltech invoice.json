@@ -1,0 +1,44 @@
+{
+    "name": "globaltech invoce",
+    "description": "globaltech firması invoce template i .",
+    "fields_to_extract": [
+        "jsonda verilen tüm bilgiler."
+    ],
+    "created_at": "2025-02-26T03:08:19.154590",
+    "json_schema": {
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer_id": "",
+        "bill_to": {
+            "name": "",
+            "address": "",
+            "tax_id": ""
+        },
+        "supplier": {
+            "name": "",
+            "address": "",
+            "vat": "",
+            "phone": ""
+        },
+        "items": [
+            {
+                "item_id": "",
+                "description": "",
+                "quantity": null,
+                "price": null,
+                "total": null,
+                "po": ""
+            }
+        ],
+        "subtotal": null,
+        "vat": null,
+        "total_amount": null,
+        "payment_terms": "",
+        "bank_details": {
+            "iban ": "",
+            "swift_code": ""
+        }
+    },
+    "example_data": {},
+    "updated_at": "2025-02-26T03:34:07.810519"
+}
