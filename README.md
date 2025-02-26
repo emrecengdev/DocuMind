@@ -5,7 +5,7 @@ Bu proje, gelişmiş OCR teknolojileri ve yapay zeka modelleri kullanarak belgel
 ## Özellikler
 
 - **Gelişmiş OCR İşleme**
-  - DocTR tabanlı yüksek doğruluklu OCR
+  - Yüksek doğruluklu OCR
   - Çoklu sayfa desteği
   - Otomatik sayfa yönü algılama
   - Metin segmentasyonu ve görselleştirme
@@ -77,6 +77,7 @@ requests>=2.31.0  # Ollama API için
    ```
 
 4. **Çevre Değişkenlerinin Ayarlanması**
+   - Bu case özelinde varsayuılan .env dosyası kullanılabilir
    - `.env.example` dosyasını `.env` olarak kopyalayın
    - Gemini API anahtarınızı ekleyin
    - Diğer ayarları ihtiyacınıza göre düzenleyin
