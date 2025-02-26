@@ -2,6 +2,11 @@
 
 Bu proje, gelişmiş OCR teknolojileri ve yapay zeka modelleri kullanarak belgeleri otomatik olarak analiz eden, veri çıkarımı yapan ve yönetebilen akıllı bir sistemdir.
 
+Bu projeye ait detaylı dökümantasyon ve kullanım kılavuzuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+👉 [Birleşik Gümrük Müşavirliği Case Çalışması](https://learned-silkworm-839.notion.site/Birle-ik-G-mr-k-M-avirli-i-Case-al-mas-1a6831570df0803fb76ac9a2a788b1ee?pvs=4)
+
+
 ## Özellikler
 
 - **Gelişmiş OCR İşleme**
